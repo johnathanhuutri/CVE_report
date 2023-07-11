@@ -3,8 +3,11 @@
 ## 1. Affected model(s) and firmware/software version(s)
 
 Product: AC18
+
 Version: V15.03.05.19(6318)
+
 Downloaded from: https://www.tenda.com.cn/download/detail-2683.html
+
 Binary: `/bin/httpd`
 
 ## 2. Vulnerability description and potential impacts
