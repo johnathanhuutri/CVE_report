@@ -77,3 +77,6 @@ DOS, Command injection
 
 Nguyen Huu Tri, Cao Ngoc Quy and Nguyen Le Quoc Anh of bl4ckh0l3 from Galaxy One
 
+## 8. Assigned CVE
+
+CVE-2023-38823
